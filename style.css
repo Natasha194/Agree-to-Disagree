@@ -1,0 +1,169 @@
+body{
+    background-image: url('https://i0.wp.com/opiniojuris.org/wp-content/uploads/building-restaurant-dark-church-cathedral-place-of-worship-858793-pxhere.com_.jpg?fit=3264%2C1836');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#button_sm {
+    width: 800px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: rgba(133, 53, 17, 0.78);
+    font-family: 'Pacifico';
+    font-size: 20px;
+    color: rgb(188, 188, 188);
+}
+
+#button_announce {
+    width: 800px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: rgba(82, 44, 26, 0.78);
+    font-family: 'Pacifico';
+    font-size: 20px;
+    color: rgb(188, 188, 188);
+}
+
+#button_rp {
+    width: 800px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: rgba(82, 44, 26, 0.78);
+    font-family: 'Pacifico';
+    font-size: 20px;
+    color: rgb(188, 188, 188);
+}
+
+#button_dt {
+    width: 800px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: rgba(123, 90, 75, 0.78);
+    font-family: 'Pacifico';
+    font-size: 20px;
+    color: rgb(188, 188, 188);
+}
+
+#button_cal {
+    width: 800px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: rgba(103, 47, 21, 0.78);
+    font-family: 'Pacifico';
+    font-size: 20px;
+    color: rgb(188, 188, 188);
+}
+
+#button_intLaw {
+    width: 160px;
+    height: 130px;
+    border-radius: 15px;
+    font-family: 'Pacifico';
+    font-size: 22px;
+    color: black;
+}
+
+#button_criminalLaw {
+    width: 160px;
+    height: 130px;
+    border-radius: 15px;
+    font-family: 'Pacifico';
+    font-size: 22px;
+    color: black;
+    margin-left: 50px;
+}
+
+#button_humanitarianLaw {
+    width: 160px;
+    height: 130px;
+    border-radius: 15px;
+    font-family: 'Pacifico';
+    font-size: 22px;
+    color: black;
+    margin-left: 50px;
+}
+
+#button_contractLaw {
+    width: 160px;
+    height: 130px;
+    border-radius: 15px;
+    font-family: 'Pacifico';
+    font-size: 22px;
+    color: black;
+    margin-left: 50px;
+}
+
+#button_corporateLaw {
+    width: 160px;
+    height: 130px;
+    border-radius: 15px;
+    font-family: 'Pacifico';
+    font-size: 22px;
+    color: black;
+    margin-left: 50px;
+}
+
+#button_civilLaw {
+    width: 160px;
+    height: 130px;
+    border-radius: 15px;
+    font-family: 'Pacifico';
+    font-size: 22px;
+    color: black;
+    margin-left: 50px;
+}
+
+#button_adminLaw {
+    width: 160px;
+    height: 130px;
+    border-radius: 15px;
+    font-family: 'Pacifico';
+    font-size: 22px;
+    color: black;
+    margin-left: 50px;
+}
+
+#button_commercialLaw {
+    width: 160px;
+    height: 130px;
+    border-radius: 15px;
+    font-family: 'Pacifico';
+    font-size: 22px;
+    color: black;
+    margin-left: 50px;
+}
+
+#button_constitLaw {
+    width: 160px;
+    height: 130px;
+    border-radius: 15px;
+    font-family: 'Pacifico';
+    font-size: 22px;
+    color: black;
+    margin-left: 50px;
+}
+
+.image-section {
+    justify-content: center;
+    display: flex;
+}
+
+.image-section button{
+    background-color: rgb(181, 123, 42);
+}
+
+#back {
+    width: 77px;
+    height: 40px;
+    background-color: rgb(184, 92, 27);
+    border-width: 1px;
+    margin: 20px;
+    color: black;
+    border-radius: 10px;
+    font-size: 16px;
+    font-family: 'Pacifico';
+}
+
+#backHeader {
+    display: flex;
+}
